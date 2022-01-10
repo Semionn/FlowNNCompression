@@ -1,0 +1,6 @@
+/venv/
+/experiments/lightning_logs/
+/lightning_logs/
+/MNIST/
+/experiments/*.png
+/.idea/
